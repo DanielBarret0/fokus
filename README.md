@@ -69,7 +69,7 @@ O principal objetivo desse projeto é cinhecer e aplicar fundamentos de JavaScri
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="https://github.com/DanielBarret0/AluraSpaSASS/blob/main/imagens/projeto%20completo.jpeg#vitrinedev">
+<img src="https://github.com/DanielBarret0/fokus/blob/main/imagens/banner-vitrine-dev.png#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
