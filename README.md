@@ -65,7 +65,7 @@ O principal objetivo desse projeto é cinhecer e aplicar fundamentos de JavaScri
 
 ## ⭐ Layout completo 
 
-![Layout Completo]()
+![Layout Completo](https://github.com/DanielBarret0/fokus/blob/main/imagens/projeto-completo.png)
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
