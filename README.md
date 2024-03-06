@@ -6,7 +6,7 @@ O principal objetivo desse projeto é cinhecer e aplicar fundamentos de JavaScri
 | -------------  | --- |
 | :sparkles: Nome        | **Fokus**
 | :label: Tecnologias | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-| :rocket: URL         | [Fokus]()
+| :rocket: URL         | [Fokus](https://fokus-pi-two.vercel.app/)
 | :fire: Curso Alura     | [JavaScript: manipulando elementos no DOM](https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom)
 
 ## Detalhes do projeto
